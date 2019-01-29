@@ -1,0 +1,31 @@
+body{
+    font-family: 'Permanent Marker', cursive;
+    color: #060706;
+    font-weight: 400;
+    background-color: #BCBbbb;
+}
+
+.text-opaco{
+    color: rgb(0, 0, 0);
+}
+
+.text-fino{
+    font-weight: 100;
+}
+
+.font-maior{
+    font-size: 60px;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Indie Flower', cursive;
+}
+
+.img{
+    width: 10%;
+}
+
+.logo{
+    width: 35%;
+}
